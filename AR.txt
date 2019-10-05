@@ -1,0 +1,17 @@
+A/R Workshop
+x: delete 
+shift +a objects 
+navigation commands:
+scroll zoom in 
+shift + mouse : 
+3 ortho 
+1 Left hand 
+2 down
+tab is edit mode
+z :  wireframe 
+b is for select 
+press shift for multiple selection
+e: up and down extend 
+s: shrink or expand 
+r: rotate 
+if in object mode : press g to move
