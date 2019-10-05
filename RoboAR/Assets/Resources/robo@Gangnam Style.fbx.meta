@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: e24e043fe71e4784d9d505b8775b294d
+timeCreated: 1570275149
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cone
+    100004: Cube
+    100006: Cube.001
+    100008: Cube.002
+    100010: Cube.003
+    100012: Cube.004
+    100014: Cube.005
+    100016: Cube.006
+    100018: Cylinder
+    100020: Cylinder.001
+    100022: Cylinder.002
+    100024: Cylinder.003
+    100026: Icosphere
+    100028: Icosphere.001
+    100030: mixamorig:Head
+    100032: mixamorig:HeadTop_End
+    100034: mixamorig:Hips
+    100036: mixamorig:LeftArm
+    100038: mixamorig:LeftFoot
+    100040: mixamorig:LeftForeArm
+    100042: mixamorig:LeftHand
+    100044: mixamorig:LeftHandIndex1
+    100046: mixamorig:LeftHandIndex2
+    100048: mixamorig:LeftHandIndex3
+    100050: mixamorig:LeftHandIndex4
+    100052: mixamorig:LeftLeg
+    100054: mixamorig:LeftShoulder
+    100056: mixamorig:LeftToe_End
+    100058: mixamorig:LeftToeBase
+    100060: mixamorig:LeftUpLeg
+    100062: mixamorig:Neck
+    100064: mixamorig:RightArm
+    100066: mixamorig:RightFoot
+    100068: mixamorig:RightForeArm
+    100070: mixamorig:RightHand
+    100072: mixamorig:RightHandIndex1
+    100074: mixamorig:RightHandIndex2
+    100076: mixamorig:RightHandIndex3
+    100078: mixamorig:RightHandIndex4
+    100080: mixamorig:RightLeg
+    100082: mixamorig:RightShoulder
+    100084: mixamorig:RightToe_End
+    100086: mixamorig:RightToeBase
+    100088: mixamorig:RightUpLeg
+    100090: mixamorig:Spine
+    100092: mixamorig:Spine1
+    100094: mixamorig:Spine2
+    100096: //RootNode
+    100098: Sphere
+    100100: Sun
+    400000: Camera
+    400002: Cone
+    400004: Cube
+    400006: Cube.001
+    400008: Cube.002
+    400010: Cube.003
+    400012: Cube.004
+    400014: Cube.005
+    400016: Cube.006
+    400018: Cylinder
+    400020: Cylinder.001
+    400022: Cylinder.002
+    400024: Cylinder.003
+    400026: Icosphere
+    400028: Icosphere.001
+    400030: mixamorig:Head
+    400032: mixamorig:HeadTop_End
+    400034: mixamorig:Hips
+    400036: mixamorig:LeftArm
+    400038: mixamorig:LeftFoot
+    400040: mixamorig:LeftForeArm
+    400042: mixamorig:LeftHand
+    400044: mixamorig:LeftHandIndex1
+    400046: mixamorig:LeftHandIndex2
+    400048: mixamorig:LeftHandIndex3
+    400050: mixamorig:LeftHandIndex4
+    400052: mixamorig:LeftLeg
+    400054: mixamorig:LeftShoulder
+    400056: mixamorig:LeftToe_End
+    400058: mixamorig:LeftToeBase
+    400060: mixamorig:LeftUpLeg
+    400062: mixamorig:Neck
+    400064: mixamorig:RightArm
+    400066: mixamorig:RightFoot
+    400068: mixamorig:RightForeArm
+    400070: mixamorig:RightHand
+    400072: mixamorig:RightHandIndex1
+    400074: mixamorig:RightHandIndex2
+    400076: mixamorig:RightHandIndex3
+    400078: mixamorig:RightHandIndex4
+    400080: mixamorig:RightLeg
+    400082: mixamorig:RightShoulder
+    400084: mixamorig:RightToe_End
+    400086: mixamorig:RightToeBase
+    400088: mixamorig:RightUpLeg
+    400090: mixamorig:Spine
+    400092: mixamorig:Spine1
+    400094: mixamorig:Spine2
+    400096: //RootNode
+    400098: Sphere
+    400100: Sun
+    2000000: Camera
+    2100000: skin
+    2100002: yellow
+    2100004: red
+    2100006: Material
+    2100008: Material.004
+    2100010: Material.003
+    4300000: Cube
+    4300002: Sphere
+    4300004: Icosphere
+    4300006: Icosphere.001
+    4300008: Cube.001
+    4300010: Cube.002
+    4300012: Cube.004
+    4300014: Cube.003
+    4300016: Cylinder
+    4300018: Cube.005
+    4300020: Cylinder.001
+    4300022: Cube.006
+    4300024: Cylinder.002
+    4300026: Cylinder.003
+    4300028: Cone
+    7400000: Gangnam Style
+    9500000: //RootNode
+    10800000: Sun
+    11100000: //RootNode
+    13700000: Cone
+    13700002: Cube
+    13700004: Cube.001
+    13700006: Cube.002
+    13700008: Cube.003
+    13700010: Cube.004
+    13700012: Cube.005
+    13700014: Cube.006
+    13700016: Cylinder
+    13700018: Cylinder.001
+    13700020: Cylinder.002
+    13700022: Cylinder.003
+    13700024: Icosphere
+    13700026: Icosphere.001
+    13700028: Sphere
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Gangnam Style
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 371
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
